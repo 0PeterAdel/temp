@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "HOME",
+    "title": "Shift Core — Home",
+    "path": "Home.md",
+    "owner": "PO",
+    "contrib": [
+      "SM",
+      "TL"
+    ],
+    "review": "FE",
+    "kind": "Home",
+    "phase": "Start here"
+  },
+  {
+    "id": "PROJECT",
+    "title": "Project",
+    "path": "01-project/index.md",
+    "owner": "PO",
+    "contrib": [
+      "UX",
+      "BL"
+    ],
+    "review": "FE",
+    "kind": "Section index",
+    "phase": "Design now"
+  },
+  {
+    "id": "DESIGN",
+    "title": "System Design",
+    "path": "02-system-design/index.md",
+    "owner": "TL",
+    "contrib": [
+      "BE",
+      "SEC",
+      "DEV",
+      "FE",
+      "UX"
+    ],
+    "review": "AI",
+    "kind": "Section index",
+    "phase": "Design now"
+  },
+  {
+    "id": "RESEARCH",
+    "title": "Research & Decisions",
+    "path": "03-research-decisions/index.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC",
+      "DEV",
+      "FE",
+      "UX"
+    ],
+    "review": "TL",
+    "kind": "Section index",
+    "phase": "Design now"
+  },
+  {
+    "id": "DEVELOP",
+    "title": "Development",
+    "path": "04-development/index.md",
+    "owner": "TL",
+    "contrib": [
+      "BE",
+      "FE",
+      "SEC",
+      "AI"
+    ],
+    "review": "DEV",
+    "kind": "Section index",
+    "phase": "Design now"
+  },
+  {
+    "id": "TEST",
+    "title": "Testing & Evaluation",
+    "path": "05-testing-evaluation/index.md",
+    "owner": "BE",
+    "contrib": [
+      "AI",
+      "BL",
+      "DEV",
+      "FE",
+      "UX"
+    ],
+    "review": "SEC",
+    "kind": "Section index",
+    "phase": "Design now"
+  },
+  {
+    "id": "TEAM",
+    "title": "Team & Project Records",
+    "path": "06-team-records/index.md",
+    "owner": "SM",
+    "contrib": [
+      "TL",
+      "UX"
+    ],
+    "review": "PO",
+    "kind": "Section index",
+    "phase": "Design now"
+  },
+  {
+    "id": "LAYERS",
+    "title": "Runtime Layers",
+    "path": "02-system-design/runtime-layers/index.md",
+    "owner": "TL",
+    "contrib": [
+      "BE",
+      "SEC",
+      "DEV",
+      "FE",
+      "UX"
+    ],
+    "review": "AI",
+    "kind": "Component index",
+    "phase": "Design now"
+  },
+  {
+    "id": "SHARED",
+    "title": "Shared Components",
+    "path": "02-system-design/shared-components/index.md",
+    "owner": "TL",
+    "contrib": [
+      "BE",
+      "SEC",
+      "UX"
+    ],
+    "review": "AI",
+    "kind": "Component index",
+    "phase": "Design now"
+  },
+  {
+    "id": "CROSS",
+    "title": "Cross-System Design",
+    "path": "02-system-design/cross-system/index.md",
+    "owner": "TL",
+    "contrib": [
+      "BE",
+      "DEV",
+      "UX",
+      "FE",
+      "AI"
+    ],
+    "review": "SEC",
+    "kind": "Component index",
+    "phase": "Design now"
+  },
+  {
+    "id": "TASK",
+    "title": "Task Creation",
+    "path": "02-system-design/runtime-layers/task-creation/index.md",
+    "owner": "BE",
+    "contrib": [
+      "UX",
+      "FE",
+      "AI"
+    ],
+    "review": "TL",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "TASK-INPUT",
+    "title": "Task Input",
+    "path": "02-system-design/runtime-layers/task-creation/input.md",
+    "owner": "UX",
+    "contrib": [
+      "FE",
+      "AI"
+    ],
+    "review": "BE",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "TASK-IDENTITY",
+    "title": "Task Identity",
+    "path": "02-system-design/runtime-layers/task-creation/identity.md",
+    "owner": "BE",
+    "contrib": [
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "TASK-CONTEXT",
+    "title": "Initial Context",
+    "path": "02-system-design/runtime-layers/task-creation/context.md",
+    "owner": "BE",
+    "contrib": [
+      "UX",
+      "SEC"
+    ],
+    "review": "AI",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "TASK-INTERACTION",
+    "title": "User Interaction",
+    "path": "02-system-design/runtime-layers/task-creation/interaction.md",
+    "owner": "FE",
+    "contrib": [
+      "AI"
+    ],
+    "review": "UX",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "ANALYSIS",
+    "title": "Task Analysis",
+    "path": "02-system-design/runtime-layers/task-analysis/index.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "UX",
+      "FE"
+    ],
+    "review": "TL",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "ANALYSIS-INTENT",
+    "title": "Intent Understanding",
+    "path": "02-system-design/runtime-layers/task-analysis/intent.md",
+    "owner": "AI",
+    "contrib": [
+      "UX",
+      "BE",
+      "FE"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "ANALYSIS-REQUIREMENTS",
+    "title": "Requirements & Constraints",
+    "path": "02-system-design/runtime-layers/task-analysis/requirements.md",
+    "owner": "AI",
+    "contrib": [
+      "UX",
+      "BE"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "ANALYSIS-CONTEXT",
+    "title": "Context Discovery",
+    "path": "02-system-design/runtime-layers/task-analysis/context.md",
+    "owner": "BE",
+    "contrib": [
+      "SEC"
+    ],
+    "review": "AI",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "ANALYSIS-UNCERTAINTY",
+    "title": "Uncertainty & Clarification",
+    "path": "02-system-design/runtime-layers/task-analysis/uncertainty.md",
+    "owner": "UX",
+    "contrib": [
+      "AI",
+      "FE",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PLAN",
+    "title": "Task Planning",
+    "path": "02-system-design/runtime-layers/task-planning/index.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PLAN-DECOMPOSITION",
+    "title": "Dynamic Task Decomposition",
+    "path": "02-system-design/runtime-layers/task-planning/decomposition.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "UX"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PLAN-DEPENDENCIES",
+    "title": "Dependencies & Ordering",
+    "path": "02-system-design/runtime-layers/task-planning/dependencies.md",
+    "owner": "BL",
+    "contrib": [
+      "BE"
+    ],
+    "review": "AI",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PLAN-RESOURCES",
+    "title": "Agent, Skill & Resource Selection",
+    "path": "02-system-design/runtime-layers/task-planning/resources.md",
+    "owner": "AI",
+    "contrib": [
+      "SEC",
+      "DEV"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PLAN-VALIDATION",
+    "title": "Plan Validation & Acceptance",
+    "path": "02-system-design/runtime-layers/task-planning/validation.md",
+    "owner": "BL",
+    "contrib": [
+      "SEC",
+      "BE"
+    ],
+    "review": "AI",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PREP",
+    "title": "Task Preparation",
+    "path": "02-system-design/runtime-layers/task-preparation/index.md",
+    "owner": "BL",
+    "contrib": [
+      "DEV",
+      "AI",
+      "BE"
+    ],
+    "review": "SEC",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PREP-READINESS",
+    "title": "Environment Readiness",
+    "path": "02-system-design/runtime-layers/task-preparation/readiness.md",
+    "owner": "DEV",
+    "contrib": [
+      "BL",
+      "AI"
+    ],
+    "review": "SEC",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PREP-RESOURCES",
+    "title": "Resource Preparation",
+    "path": "02-system-design/runtime-layers/task-preparation/resources.md",
+    "owner": "BL",
+    "contrib": [
+      "DEV",
+      "BE"
+    ],
+    "review": "AI",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PREP-PERMISSIONS",
+    "title": "Permissions & Isolation Preconditions",
+    "path": "02-system-design/runtime-layers/task-preparation/permissions.md",
+    "owner": "SEC",
+    "contrib": [
+      "DEV"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PREP-PRECONDITIONS",
+    "title": "Preconditions & Handoff",
+    "path": "02-system-design/runtime-layers/task-preparation/preconditions.md",
+    "owner": "BE",
+    "contrib": [
+      "DEV",
+      "AI"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "EXEC",
+    "title": "Task Execution",
+    "path": "02-system-design/runtime-layers/task-execution/index.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC",
+      "DEV",
+      "FE"
+    ],
+    "review": "TL",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "EXEC-MODEL",
+    "title": "Execution Model & Boundaries",
+    "path": "02-system-design/runtime-layers/task-execution/model.md",
+    "owner": "AI",
+    "contrib": [
+      "FE",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "EXEC-ADAPTERS",
+    "title": "Agents & Runtime Adapters",
+    "path": "02-system-design/runtime-layers/task-execution/adapters.md",
+    "owner": "BL",
+    "contrib": [
+      "SEC",
+      "DEV"
+    ],
+    "review": "AI",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "EXEC-TOOLS",
+    "title": "Tools & Permissions",
+    "path": "02-system-design/runtime-layers/task-execution/tools.md",
+    "owner": "SEC",
+    "contrib": [
+      "AI",
+      "DEV"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "EXEC-ENV",
+    "title": "Execution Environment",
+    "path": "02-system-design/runtime-layers/task-execution/env.md",
+    "owner": "DEV",
+    "contrib": [
+      "BL",
+      "AI"
+    ],
+    "review": "SEC",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "EXEC-STATE",
+    "title": "Execution State & Control",
+    "path": "02-system-design/runtime-layers/task-execution/state.md",
+    "owner": "BE",
+    "contrib": [
+      "AI",
+      "DEV"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "EXEC-OUTPUT",
+    "title": "Outputs & Evidence",
+    "path": "02-system-design/runtime-layers/task-execution/output.md",
+    "owner": "BE",
+    "contrib": [
+      "AI",
+      "BL"
+    ],
+    "review": "SEC",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "EXEC-MONITOR",
+    "title": "Execution Monitoring & User Interaction",
+    "path": "02-system-design/runtime-layers/task-execution/monitor.md",
+    "owner": "FE",
+    "contrib": [
+      "BE",
+      "AI",
+      "SEC"
+    ],
+    "review": "UX",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "VERIFY",
+    "title": "Verification & Evaluation",
+    "path": "02-system-design/runtime-layers/verification-evaluation/index.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "BL",
+      "FE"
+    ],
+    "review": "SEC",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "VERIFY-EVIDENCE",
+    "title": "Evidence Model & Provenance",
+    "path": "02-system-design/runtime-layers/verification-evaluation/evidence.md",
+    "owner": "BE",
+    "contrib": [
+      "AI",
+      "BL"
+    ],
+    "review": "SEC",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "VERIFY-CHECKS",
+    "title": "Independent Checks",
+    "path": "02-system-design/runtime-layers/verification-evaluation/checks.md",
+    "owner": "SEC",
+    "contrib": [
+      "AI",
+      "BE",
+      "FE"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "VERIFY-CRITERIA",
+    "title": "Evaluation Criteria",
+    "path": "02-system-design/runtime-layers/verification-evaluation/criteria.md",
+    "owner": "AI",
+    "contrib": [
+      "UX",
+      "BE"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "VERIFY-RESULTS",
+    "title": "Verification Results",
+    "path": "02-system-design/runtime-layers/verification-evaluation/results.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "BL"
+    ],
+    "review": "SEC",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "RECOVERY",
+    "title": "Repair & Recovery",
+    "path": "02-system-design/runtime-layers/repair-recovery/index.md",
+    "owner": "BL",
+    "contrib": [
+      "BE",
+      "SEC",
+      "DEV"
+    ],
+    "review": "AI",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "RECOVERY-DIAGNOSIS",
+    "title": "Failure Diagnosis",
+    "path": "02-system-design/runtime-layers/repair-recovery/diagnosis.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "RECOVERY-STRATEGY",
+    "title": "Repair Strategies",
+    "path": "02-system-design/runtime-layers/repair-recovery/strategy.md",
+    "owner": "BL",
+    "contrib": [
+      "BE"
+    ],
+    "review": "AI",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "RECOVERY-LIMITS",
+    "title": "Recovery Limits",
+    "path": "02-system-design/runtime-layers/repair-recovery/limits.md",
+    "owner": "SEC",
+    "contrib": [
+      "AI",
+      "DEV"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "RECOVERY-ESCALATION",
+    "title": "Escalation & Human Decisions",
+    "path": "02-system-design/runtime-layers/repair-recovery/escalation.md",
+    "owner": "UX",
+    "contrib": [
+      "AI",
+      "FE",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "GATE",
+    "title": "Completion Gate",
+    "path": "02-system-design/runtime-layers/completion-gate/index.md",
+    "owner": "BE",
+    "contrib": [
+      "AI",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "GATE-CRITERIA",
+    "title": "Completion Criteria",
+    "path": "02-system-design/runtime-layers/completion-gate/criteria.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "GATE-AUTHORITY",
+    "title": "Decision Authority",
+    "path": "02-system-design/runtime-layers/completion-gate/authority.md",
+    "owner": "BE",
+    "contrib": [
+      "AI",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "GATE-OUTCOMES",
+    "title": "Completion Outcomes",
+    "path": "02-system-design/runtime-layers/completion-gate/outcomes.md",
+    "owner": "BE",
+    "contrib": [
+      "UX",
+      "FE"
+    ],
+    "review": "AI",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "EXP",
+    "title": "Experience Management",
+    "path": "02-system-design/runtime-layers/experience-management/index.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "EXP-MODEL",
+    "title": "Experience Model",
+    "path": "02-system-design/runtime-layers/experience-management/model.md",
+    "owner": "AI",
+    "contrib": [
+      "BE"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "EXP-TRUST",
+    "title": "Experience Trust",
+    "path": "02-system-design/runtime-layers/experience-management/trust.md",
+    "owner": "SEC",
+    "contrib": [
+      "BE",
+      "BL"
+    ],
+    "review": "AI",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "EXP-PROMOTION",
+    "title": "Experience Promotion",
+    "path": "02-system-design/runtime-layers/experience-management/promotion.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "EXP-REUSE",
+    "title": "Retrieval & Reuse",
+    "path": "02-system-design/runtime-layers/experience-management/reuse.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC",
+      "FE"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "ASK",
+    "title": "Ask & Decide",
+    "path": "02-system-design/shared-components/ask-decide/index.md",
+    "owner": "UX",
+    "contrib": [
+      "AI",
+      "FE",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "ASK-CLARIFY",
+    "title": "Clarification",
+    "path": "02-system-design/shared-components/ask-decide/clarify.md",
+    "owner": "UX",
+    "contrib": [
+      "FE",
+      "BE"
+    ],
+    "review": "AI",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "ASK-APPROVAL",
+    "title": "Approval & Authorization",
+    "path": "02-system-design/shared-components/ask-decide/approval.md",
+    "owner": "SEC",
+    "contrib": [
+      "UX",
+      "AI"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "ASK-DECISION",
+    "title": "Decision Context",
+    "path": "02-system-design/shared-components/ask-decide/decision.md",
+    "owner": "AI",
+    "contrib": [
+      "UX",
+      "BE",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PKM",
+    "title": "Policy, Knowledge & Memory",
+    "path": "02-system-design/shared-components/policy-knowledge-memory/index.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "BL"
+    ],
+    "review": "SEC",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PKM-POLICY",
+    "title": "Policies & Constraints",
+    "path": "02-system-design/shared-components/policy-knowledge-memory/policy.md",
+    "owner": "SEC",
+    "contrib": [
+      "AI",
+      "DEV"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PKM-KNOWLEDGE",
+    "title": "Knowledge Sources",
+    "path": "02-system-design/shared-components/policy-knowledge-memory/knowledge.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC",
+      "FE"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PKM-MEMORY",
+    "title": "Memory Model",
+    "path": "02-system-design/shared-components/policy-knowledge-memory/memory.md",
+    "owner": "BE",
+    "contrib": [
+      "SEC",
+      "BL"
+    ],
+    "review": "AI",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "PKM-RETRIEVAL",
+    "title": "Retrieval & Context Assembly",
+    "path": "02-system-design/shared-components/policy-knowledge-memory/retrieval.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "DATA",
+    "title": "Data & Storage",
+    "path": "02-system-design/cross-system/data-storage/index.md",
+    "owner": "BE",
+    "contrib": [
+      "AI",
+      "SEC",
+      "DEV"
+    ],
+    "review": "TL",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "DATA-MODEL",
+    "title": "Conceptual Data Model",
+    "path": "02-system-design/cross-system/data-storage/model.md",
+    "owner": "BE",
+    "contrib": [
+      "AI",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "DATA-LIFECYCLE",
+    "title": "Data Lifecycle & Retention",
+    "path": "02-system-design/cross-system/data-storage/lifecycle.md",
+    "owner": "BE",
+    "contrib": [
+      "AI",
+      "DEV"
+    ],
+    "review": "SEC",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "DATA-CONSISTENCY",
+    "title": "Consistency & Storage Boundaries",
+    "path": "02-system-design/cross-system/data-storage/consistency.md",
+    "owner": "BL",
+    "contrib": [
+      "DEV",
+      "SEC"
+    ],
+    "review": "BE",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "TRUST",
+    "title": "Security & Trust",
+    "path": "02-system-design/cross-system/security-trust/index.md",
+    "owner": "SEC",
+    "contrib": [
+      "DEV",
+      "AI",
+      "BE"
+    ],
+    "review": "TL",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "TRUST-THREATS",
+    "title": "Threat Model & Trust Boundaries",
+    "path": "02-system-design/cross-system/security-trust/threats.md",
+    "owner": "SEC",
+    "contrib": [
+      "AI",
+      "DEV"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "TRUST-IDENTITY",
+    "title": "Identity & Authorization",
+    "path": "02-system-design/cross-system/security-trust/identity.md",
+    "owner": "SEC",
+    "contrib": [
+      "BE",
+      "UX"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "TRUST-ISOLATION",
+    "title": "Isolation & Safety Controls",
+    "path": "02-system-design/cross-system/security-trust/isolation.md",
+    "owner": "SEC",
+    "contrib": [
+      "AI",
+      "BL"
+    ],
+    "review": "DEV",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "UXD",
+    "title": "User Experience",
+    "path": "02-system-design/cross-system/user-experience/index.md",
+    "owner": "UX",
+    "contrib": [
+      "AI",
+      "PO",
+      "BE"
+    ],
+    "review": "FE",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "UXD-JOURNEYS",
+    "title": "User Journeys & Information Architecture",
+    "path": "02-system-design/cross-system/user-experience/journeys.md",
+    "owner": "UX",
+    "contrib": [
+      "PO",
+      "AI"
+    ],
+    "review": "FE",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "UXD-INTERACTIONS",
+    "title": "Interaction & State Design",
+    "path": "02-system-design/cross-system/user-experience/interactions.md",
+    "owner": "FE",
+    "contrib": [
+      "BE",
+      "AI"
+    ],
+    "review": "UX",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "UXD-FRONTEND",
+    "title": "Frontend Concept & Integration",
+    "path": "02-system-design/cross-system/user-experience/frontend.md",
+    "owner": "FE",
+    "contrib": [
+      "UX",
+      "BE"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "INFRA",
+    "title": "Infrastructure & Deployment",
+    "path": "02-system-design/cross-system/infrastructure-deployment/index.md",
+    "owner": "DEV",
+    "contrib": [
+      "BL",
+      "BE",
+      "AI"
+    ],
+    "review": "SEC",
+    "kind": "Component workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "INFRA-TOPOLOGY",
+    "title": "Environment & Deployment Topology",
+    "path": "02-system-design/cross-system/infrastructure-deployment/topology.md",
+    "owner": "DEV",
+    "contrib": [
+      "SEC",
+      "BE"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "INFRA-OPERATIONS",
+    "title": "Observability & Operations",
+    "path": "02-system-design/cross-system/infrastructure-deployment/operations.md",
+    "owner": "DEV",
+    "contrib": [
+      "BE",
+      "FE"
+    ],
+    "review": "SEC",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "INFRA-DELIVERY",
+    "title": "Delivery & Environment Reproducibility",
+    "path": "02-system-design/cross-system/infrastructure-deployment/delivery.md",
+    "owner": "DEV",
+    "contrib": [
+      "BE",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Element workspace",
+    "phase": "Design now"
+  },
+  {
+    "id": "ORG",
+    "title": "Team & Ownership",
+    "path": "06-team-records/team-ownership/index.md",
+    "owner": "SM",
+    "contrib": [
+      "TL",
+      "BL",
+      "BE",
+      "SEC",
+      "FE",
+      "UX"
+    ],
+    "review": "PO",
+    "kind": "Section index",
+    "phase": "Design now"
+  },
+  {
+    "id": "OVERVIEW",
+    "title": "Project Overview",
+    "path": "01-project/project-overview.md",
+    "owner": "PO",
+    "contrib": [
+      "UX",
+      "BL"
+    ],
+    "review": "FE",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "VISION",
+    "title": "Problem & Vision",
+    "path": "01-project/problem-vision.md",
+    "owner": "PO",
+    "contrib": [
+      "UX",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "SCOPE",
+    "title": "Requirements & Scope",
+    "path": "01-project/requirements-scope.md",
+    "owner": "PO",
+    "contrib": [
+      "UX",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "USECASES",
+    "title": "Use Cases & Scenarios",
+    "path": "01-project/use-cases.md",
+    "owner": "UX",
+    "contrib": [
+      "PO",
+      "AI",
+      "BE"
+    ],
+    "review": "FE",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "ARCH",
+    "title": "Architecture Overview",
+    "path": "02-system-design/architecture-overview.md",
+    "owner": "TL",
+    "contrib": [
+      "BE",
+      "SEC",
+      "DEV",
+      "FE",
+      "UX"
+    ],
+    "review": "AI",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "WORKFLOW",
+    "title": "System Workflow",
+    "path": "02-system-design/system-workflow.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "UX",
+      "SEC",
+      "FE"
+    ],
+    "review": "TL",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "QUESTIONS",
+    "title": "Open Questions",
+    "path": "03-research-decisions/open-questions.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC",
+      "DEV",
+      "FE",
+      "UX"
+    ],
+    "review": "TL",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "LIBRARY",
+    "title": "Research Library",
+    "path": "03-research-decisions/research-library.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC",
+      "DEV",
+      "FE",
+      "UX"
+    ],
+    "review": "TL",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "DECISIONS",
+    "title": "Decision Log",
+    "path": "03-research-decisions/decision-log.md",
+    "owner": "TL",
+    "contrib": [
+      "PO",
+      "AI",
+      "BE",
+      "DEV",
+      "FE",
+      "UX"
+    ],
+    "review": "SEC",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "TECHARCH",
+    "title": "Technical Architecture",
+    "path": "04-development/technical-architecture.md",
+    "owner": "TL",
+    "contrib": [
+      "AI",
+      "BE",
+      "DEV",
+      "FE"
+    ],
+    "review": "SEC",
+    "kind": "Guide / working page",
+    "phase": "Later — after relevant concept review"
+  },
+  {
+    "id": "STACK",
+    "title": "Technology Stack",
+    "path": "04-development/technology-stack.md",
+    "owner": "TL",
+    "contrib": [
+      "AI",
+      "BE",
+      "SEC",
+      "FE"
+    ],
+    "review": "DEV",
+    "kind": "Guide / working page",
+    "phase": "Later — after constraints known"
+  },
+  {
+    "id": "REPO",
+    "title": "Repository & Engineering Guide",
+    "path": "04-development/repository-engineering-guide.md",
+    "owner": "BL",
+    "contrib": [
+      "SEC",
+      "FE",
+      "AI"
+    ],
+    "review": "DEV",
+    "kind": "Guide / working page",
+    "phase": "Later — foundation when needed"
+  },
+  {
+    "id": "ROADMAP",
+    "title": "Development Roadmap",
+    "path": "04-development/development-roadmap.md",
+    "owner": "PO",
+    "contrib": [
+      "SM",
+      "DEV",
+      "FE",
+      "UX"
+    ],
+    "review": "TL",
+    "kind": "Guide / working page",
+    "phase": "Later — plan by maturity"
+  },
+  {
+    "id": "JIRA",
+    "title": "Work Breakdown & Jira",
+    "path": "04-development/work-breakdown-jira.md",
+    "owner": "PO",
+    "contrib": [
+      "SM",
+      "BE",
+      "DEV",
+      "FE",
+      "SEC",
+      "UX"
+    ],
+    "review": "TL",
+    "kind": "Guide / working page",
+    "phase": "Later — only for sufficiently agreed design"
+  },
+  {
+    "id": "TESTSTRAT",
+    "title": "Testing Strategy",
+    "path": "05-testing-evaluation/testing-strategy.md",
+    "owner": "BE",
+    "contrib": [
+      "BL",
+      "AI",
+      "DEV",
+      "FE",
+      "UX"
+    ],
+    "review": "SEC",
+    "kind": "Guide / working page",
+    "phase": "Design now — develop in parallel"
+  },
+  {
+    "id": "RESEVAL",
+    "title": "Research Evaluation",
+    "path": "05-testing-evaluation/research-evaluation.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC",
+      "FE",
+      "DEV",
+      "UX"
+    ],
+    "review": "TL",
+    "kind": "Guide / working page",
+    "phase": "Design now — protocol before results"
+  },
+  {
+    "id": "RESULTS",
+    "title": "Results & Evidence",
+    "path": "05-testing-evaluation/results-evidence.md",
+    "owner": "BE",
+    "contrib": [
+      "AI",
+      "DEV",
+      "BL",
+      "FE",
+      "UX"
+    ],
+    "review": "SEC",
+    "kind": "Guide / working page",
+    "phase": "Later — when evidence exists"
+  },
+  {
+    "id": "MEETINGS",
+    "title": "Meeting Notes",
+    "path": "06-team-records/meeting-notes.md",
+    "owner": "SM",
+    "contrib": [
+      "TL",
+      "BL",
+      "BE",
+      "SEC",
+      "FE",
+      "UX"
+    ],
+    "review": "PO",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "SUPERVISOR",
+    "title": "Supervisor Feedback",
+    "path": "06-team-records/supervisor-feedback.md",
+    "owner": "PO",
+    "contrib": [
+      "UX",
+      "SM"
+    ],
+    "review": "TL",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "ACADEMIC",
+    "title": "Academic Deliverables",
+    "path": "06-team-records/academic-deliverables.md",
+    "owner": "PO",
+    "contrib": [
+      "UX",
+      "SM",
+      "BE"
+    ],
+    "review": "TL",
+    "kind": "Guide / working page",
+    "phase": "Design now — as requirements arrive"
+  },
+  {
+    "id": "TEAMSTRUCT",
+    "title": "Team Structure",
+    "path": "06-team-records/team-ownership/team-structure.md",
+    "owner": "SM",
+    "contrib": [
+      "TL"
+    ],
+    "review": "PO",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "ROLES",
+    "title": "Roles & Responsibilities",
+    "path": "06-team-records/team-ownership/roles-responsibilities.md",
+    "owner": "SM",
+    "contrib": [
+      "TL",
+      "BL",
+      "BE",
+      "SEC",
+      "FE",
+      "UX"
+    ],
+    "review": "PO",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "MEMBERS",
+    "title": "Team Members",
+    "path": "06-team-records/team-ownership/team-members.md",
+    "owner": "SM",
+    "contrib": [
+      "TL"
+    ],
+    "review": "PO",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "OWNERSHIP",
+    "title": "Ownership Matrix",
+    "path": "06-team-records/team-ownership/ownership-matrix.md",
+    "owner": "SM",
+    "contrib": [
+      "PO",
+      "AI",
+      "BE",
+      "SEC",
+      "FE",
+      "UX"
+    ],
+    "review": "TL",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "WAYS",
+    "title": "Ways of Working",
+    "path": "06-team-records/team-ownership/ways-of-working.md",
+    "owner": "SM",
+    "contrib": [
+      "TL",
+      "BL",
+      "BE",
+      "SEC",
+      "FE",
+      "UX"
+    ],
+    "review": "PO",
+    "kind": "Guide / working page",
+    "phase": "Design now"
+  },
+  {
+    "id": "TEMPLATES",
+    "title": "Writing Templates",
+    "path": "_templates/index.md",
+    "owner": "SM",
+    "contrib": [
+      "AI",
+      "BE",
+      "UX"
+    ],
+    "review": "TL",
+    "kind": "Template index",
+    "phase": "Reference"
+  },
+  {
+    "id": "T-COMP",
+    "title": "Component Page Template",
+    "path": "_templates/component.md",
+    "owner": "TL",
+    "contrib": [
+      "BE",
+      "SEC",
+      "DEV",
+      "UX"
+    ],
+    "review": "AI",
+    "kind": "Reusable template",
+    "phase": "Reference"
+  },
+  {
+    "id": "T-ELEM",
+    "title": "Element Page Template",
+    "path": "_templates/element.md",
+    "owner": "BL",
+    "contrib": [
+      "BE",
+      "SEC",
+      "DEV",
+      "UX"
+    ],
+    "review": "AI",
+    "kind": "Reusable template",
+    "phase": "Reference"
+  },
+  {
+    "id": "T-RQ",
+    "title": "Research Note Template",
+    "path": "_templates/research-note.md",
+    "owner": "AI",
+    "contrib": [
+      "BE",
+      "SEC",
+      "FE"
+    ],
+    "review": "TL",
+    "kind": "Reusable template",
+    "phase": "Reference"
+  },
+  {
+    "id": "T-DEC",
+    "title": "Decision Record Template",
+    "path": "_templates/decision-record.md",
+    "owner": "TL",
+    "contrib": [
+      "SEC"
+    ],
+    "review": "AI",
+    "kind": "Reusable template",
+    "phase": "Reference"
+  },
+  {
+    "id": "T-MTG",
+    "title": "Meeting Note Template",
+    "path": "_templates/meeting-note.md",
+    "owner": "SM",
+    "contrib": [
+      "TL"
+    ],
+    "review": "PO",
+    "kind": "Reusable template",
+    "phase": "Reference"
+  },
+  {
+    "id": "T-JIRA",
+    "title": "Work Package & Jira Template",
+    "path": "_templates/work-package.md",
+    "owner": "PO",
+    "contrib": [
+      "SM"
+    ],
+    "review": "TL",
+    "kind": "Reusable template",
+    "phase": "Reference"
+  },
+  {
+    "id": "RQ-EXEC-001",
+    "title": "Example Research Note — Agent vs Runtime",
+    "path": "03-research-decisions/research-notes/RQ-EXEC-001.md",
+    "owner": "AI",
+    "contrib": [
+      "FE",
+      "SEC"
+    ],
+    "review": "TL",
+    "kind": "Research starter",
+    "phase": "Design now"
+  },
+  {
+    "id": "DEC-EXAMPLE",
+    "title": "Example Decision Record — Execution Boundary",
+    "path": "03-research-decisions/decision-records/DEC-EXAMPLE.md",
+    "owner": "TL",
+    "contrib": [
+      "SEC",
+      "FE"
+    ],
+    "review": "AI",
+    "kind": "Decision starter",
+    "phase": "Design now"
+  }
+]
